@@ -6,6 +6,7 @@ from Components.stuff import *
 import datetime
 
 class Components_DB:
+    '''Needed to work in console only'''
 
     def __init__(self, size = 3):   
         global names

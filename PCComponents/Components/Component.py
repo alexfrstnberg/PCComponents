@@ -5,6 +5,7 @@ import datetime
 
 
 class Component:
+    '''Represents the PC components'''
 
     def __init__(self, name='', country='', prod_date='', price=0, quantity=0, rand=False):
         

@@ -1,3 +1,5 @@
+#Needed to work in console only
+
 from Components.Features import *
 
 def exit_the_program():
